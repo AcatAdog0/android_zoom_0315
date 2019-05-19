@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">zoom_test</string>
+    <string name="button_1">OK</string>
+    <string name="确定">确定</string>
+    <string name="button">OK</string>
+    <string name="todo">TODO</string>
+    <string name="image_demo">TODO</string>
+    <string name="textview_1">TextView</string>
+    <string name="button_2">Button</string>
+    <string name="finish">完成</string>
+    <string name="distance">最小指距</string>
+    <string name="_00">00</string>
+    <string name="zoom_function">缩放函数</string>
+    <string name="test_number">实验序号</string>
+    <string-array name="scale_function">
+        <item>y=x</item>
+        <item>y=x^(1/2)</item>
+        <item>y=x^2</item>
+    </string-array>
+    <string-array name="set_dis">
+        <item>0</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+</resources>
